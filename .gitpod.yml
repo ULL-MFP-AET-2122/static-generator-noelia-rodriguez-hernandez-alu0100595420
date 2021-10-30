@@ -8,8 +8,8 @@ tasks:
       git config --global alias.ci commit
       git config --global alias.st status
     command: |
-      bundle exec jekyll serve
-      echo 'Bienvenido a esta tarea de Aprendizaje y Enseñanza de la Tecnología'
+      echo 'Write in the terminal:'
+      echo '   bundle exec jekyll serve'
 
 image:
   file: .gitpod.Dockerfile
