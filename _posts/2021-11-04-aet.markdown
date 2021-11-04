@@ -1,0 +1,6 @@
+---
+title: "my first post"
+---
+# Por fin es jueves
+Y mañana es viernes
+y el título es {{page.title}}
