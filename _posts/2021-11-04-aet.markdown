@@ -2,5 +2,5 @@
 title: "my first post"
 ---
 # Por fin es jueves siiii
-Y mañana es viernes
+Y mañana es viernes    
 y el título es {{page.title}}
