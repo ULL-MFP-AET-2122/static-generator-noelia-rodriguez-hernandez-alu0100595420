@@ -1,6 +1,6 @@
 ---
 title: "My first post"
-permalink: /por-fin-es-jueves
+# permalink: /por-fin-es-jueves
 ---
 # Por fin es jueves siiii
 Y mañana es viernes    
