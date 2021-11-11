@@ -1,5 +1,5 @@
 ---
-title: "My first post"
+title: "Aprendiendo a usar un generado estático"
 # permalink: /por-fin-es-jueves
 ---
 # Por fin es jueves siiii
