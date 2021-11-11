@@ -1,5 +1,5 @@
 ---
-title: "Aprendiendo a usar un generado estático"
+title: "Aprendiendo a usar un generador estático"
 # permalink: /por-fin-es-jueves
 ---
 # Por fin es jueves siiii
