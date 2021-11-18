@@ -1,0 +1,61 @@
+I"Þ<h2 id="probando-blog">Probando blog</h2>
+<p>\(f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi\) <br />
+\(mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}\)</p>
+
+<!-- {"First name"=>"John", "Last name"=>"Doe", "Age"=>"35", "Location"=>"United States"}{"First name"=>"Jane", "Last name"=>"Doe", "Age"=>"29", "Location"=>"France"}{"First name"=>"Jack", "Last name"=>"Hill", "Age"=>"25", "Location"=>"Australia"} -->
+
+<table>
+  
+    
+    <tr>
+      
+        <th>First name</th>
+      
+        <th>Last name</th>
+      
+        <th>Age</th>
+      
+        <th>Location</th>
+      
+    </tr>
+    
+      <tr class="row1">
+<td class="col1">
+        John
+      </td><td class="col2">
+        Doe
+      </td><td class="col3">
+        35
+      </td><td class="col4">
+        United States
+      </td></tr>
+
+  
+    
+      <tr class="row1">
+<td class="col1">
+        Jane
+      </td><td class="col2">
+        Doe
+      </td><td class="col3">
+        29
+      </td><td class="col4">
+        France
+      </td></tr>
+
+  
+    
+      <tr class="row1">
+<td class="col1">
+        Jack
+      </td><td class="col2">
+        Hill
+      </td><td class="col3">
+        25
+      </td><td class="col4">
+        Australia
+      </td></tr>
+
+  
+</table>
+:ET
