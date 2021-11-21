@@ -1,12 +1,18 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Docencia"
+#  - title: "Quick-Start Guide"
+#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Inicio"
+    url: /inicio
+  - title: "Descripción"
+    url: /descripcion 
+  - title: "Docencia 2021"
     url: /docencia
-  - title: "Blog"
-    url: /blog
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Contacto"
+    url: /contacto
+  - title: "Blog personal"
+    url: /personal
+  - title: "About Github"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Sitemap"
   #   url: /sitemap/
