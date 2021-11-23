@@ -28,4 +28,10 @@ var store = [{
         "tags": [],
         "url": "/docencia/clase",
         "teaser": null
+      },{
+        "title": "Presentacion - Probando blog",
+        "excerpt":"Por fin es jueves siiii  Y mañana es viernes    y el título es Presentacion - Probando blog  ","categories": ["presentacion"],
+        "tags": [],
+        "url": "/presentacion/naet",
+        "teaser": null
       }]
