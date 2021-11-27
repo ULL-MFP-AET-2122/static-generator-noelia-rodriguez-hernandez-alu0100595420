@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Mis publicaciones inicio
+title: Iniciando
 permalink: /inicio
 toc: true
 ---
