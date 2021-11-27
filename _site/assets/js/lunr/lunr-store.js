@@ -1,6 +1,6 @@
 var store = [{
         "title": "I. Bienvenido al Máster en Formación del proferosado, ULL",
-        "excerpt":"Por fin es jueves siiii  Y mañana es viernes    y el título es I. Bienvenido al Máster en Formación del proferosado, ULL  ","categories": ["inicio"],
+        "excerpt":"Descripción El Máster Interuniversitario en Formación del Profesorado de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanza de Idiomas por las Universidades de La Laguna y Las Palmas de Gran Canaria, habilita para el ejercicio de actividades profesionales, según la Orden EDU/3498/2011, de 16 de diciembre, por la que...","categories": ["inicio"],
         "tags": [],
         "url": "/inicio/aet",
         "teaser": null
