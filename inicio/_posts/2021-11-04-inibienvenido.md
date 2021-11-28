@@ -11,3 +11,8 @@ title: "Bienvenido!!"
 | Créditos | Duración | Tipo de enseñanza |
 | -- | -- | -- |
 | 60 ETC | 1 año | Presencial |  
+
+<img 
+src="https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2018/04/ull-nuevo-logo.jpg"  
+width="50%" 
+/>
