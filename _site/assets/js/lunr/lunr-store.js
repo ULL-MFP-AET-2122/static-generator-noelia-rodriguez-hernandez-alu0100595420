@@ -5,25 +5,13 @@ var store = [{
         "url": "/inicio/inibienvenido",
         "teaser": null
       },{
-        "title": "Post - My second post",
-        "excerpt":"Dolphin post      Notas de clase  Somos 20 alumnos   El resultado de chuchu es 4   Probando estructuras   En breve es fiiindeee!!   Frutitas           Me gusta el melón            Me gusta el coco            Me gusta el higo       Mi usuario es AET 2021   ","categories": [],
-        "tags": [],
-        "url": "/second",
-        "teaser": null
-      },{
         "title": "Dolphin post",
-        "excerpt":"Personal post   Dolphin post     Notas de clase  Somos 20 alumnos   El resultado de chuchu es 4   Probando estructuras   En breve es fiiindeee!!   Frutitas           Me gusta el melón            Me gusta el coco            Me gusta el higo       Mi usuario es AET 2021   ","categories": ["personal"],
+        "excerpt":"Personal post   Dolphin post     Notas de clase  Somos 20 alumnos   El resultado de chuchu es 4   Probando estructuras   En breve es fiiindeee!!   Frutitas           Me gusta el melón            Me gusta el coco            Me gusta el higo       Mi usuario es AET developing.   ","categories": ["personal"],
         "tags": [],
         "url": "/personal/dolphin",
         "teaser": null
       },{
-        "title": "Post - Math post",
-        "excerpt":"Probando blog  \\(f(x) = \\int_{-\\infty}^\\infty \\hat f(\\xi)\\,e^{2 \\pi i \\xi x} \\,d\\xi\\)   \\(mean = \\frac{\\displaystyle\\sum_{i=1}^{n} x_{i}}{n}\\)                                  First name                Last name                Age                Location                                  John                Doe                35                United States                                 Jane                Doe                29                France                                 Jack                Hill                25                Australia             ","categories": [],
-        "tags": [],
-        "url": "/clase",
-        "teaser": null
-      },{
-        "title": "Docencia - Math post",
+        "title": "Math post",
         "excerpt":"Probando blog  \\(f(x) = \\int_{-\\infty}^\\infty \\hat f(\\xi)\\,e^{2 \\pi i \\xi x} \\,d\\xi\\)   \\(mean = \\frac{\\displaystyle\\sum_{i=1}^{n} x_{i}}{n}\\)                                  First name                Last name                Age                Location                                  John                Doe                35                United States                                 Jane                Doe                29                France                                 Jack                Hill                25                Australia                ","categories": ["docencia"],
         "tags": [],
         "url": "/docencia/clase",
