@@ -5,6 +5,10 @@
 <lastmod>2021-11-04T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/docencia/aprendizaje</loc>
+<lastmod>2021-11-05T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/personal/dolphin</loc>
 <lastmod>2021-11-09T00:00:00+00:00</lastmod>
 </url>
@@ -21,6 +25,10 @@
 <lastmod>2021-11-27T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/docencia/d1</loc>
+<lastmod>2021-12-05T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/contacto</loc>
 </url>
 <url>
@@ -34,5 +42,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page2/</loc>
 </url>
 </urlset>

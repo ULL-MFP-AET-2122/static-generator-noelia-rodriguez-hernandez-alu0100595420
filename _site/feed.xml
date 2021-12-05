@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-11-30T08:29:43+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Noelia’s site</title><subtitle>Testing websites.</subtitle><author><name>Nrh</name></author><entry><title type="html">Objetivos</title><link href="http://localhost:4000/inicio/iniobj" rel="alternate" type="text/html" title="Objetivos" /><published>2021-11-27T00:00:00+00:00</published><updated>2021-11-27T00:00:00+00:00</updated><id>http://localhost:4000/inicio/iniobj</id><content type="html" xml:base="http://localhost:4000/inicio/iniobj">&lt;h2 id=&quot;principales&quot;&gt;Principales&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-05T14:11:48+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Noelia’s site</title><subtitle>Testing websites.</subtitle><author><name>Nrh</name></author><entry><title type="html">Sociología</title><link href="http://localhost:4000/docencia/d1" rel="alternate" type="text/html" title="Sociología" /><published>2021-12-05T00:00:00+00:00</published><updated>2021-12-05T00:00:00+00:00</updated><id>http://localhost:4000/docencia/d1</id><content type="html" xml:base="http://localhost:4000/docencia/d1">&lt;p&gt;&lt;img src=&quot;https://eltallerdecarola.com/nueva/wp-content/uploads/080mapr13431_papel_pintado_mural_mapas_0.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;el-funcionalismo&quot;&gt;El funcionalismo&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Hegemónico en los años 50-60.&lt;/li&gt;
+  &lt;li&gt;Analiza las relaciones entre sistema educativo y necesidades del sistema social (funciones de la educación).&lt;/li&gt;
+  &lt;li&gt;El sistema social tiene tendencia a la estabilidad&lt;/li&gt;
+  &lt;li&gt;Cada elemento del sistema tiene una función .&lt;/li&gt;
+  &lt;li&gt;La cultura es elemento central en el mantenimiento del orden social.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;teoría-del-capital-humano&quot;&gt;Teoría del capital humano&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;La educación como inversión.&lt;/li&gt;
+  &lt;li&gt;La educación como requisito indispensable para el crecimiento económico, la educación es “motor” del crecimiento económico
+Los escolarizados ganan más.&lt;/li&gt;
+  &lt;li&gt;El peso de los ingresos refleja la capacidad productiva de los individuos.&lt;/li&gt;
+  &lt;li&gt;La escolarización incrementa la capacidad productiva de los individuos.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;teorías-de-la-reproducción&quot;&gt;Teorías de la Reproducción&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Analizan la escuela como una institución que reproduce la desigualdad social.&lt;/li&gt;
+  &lt;li&gt;Organización, estructuración
+y contenidos de la enseñanza escolar reflejan los principales procesos de la jerarquización y diferenciación social, cultural y económica de la sociedad.&lt;/li&gt;
+  &lt;li&gt;La institución escolar es portadora de la cultura de las clases dominantes (válida, objetiva y legítima). Esta cultura escolar ejerce su poder, domina las demás culturas.&lt;/li&gt;
+  &lt;li&gt;El alumnado de origen subalterno tiene dos opciones: se aleja de la cultura escolar (situación más habitual) o se integra en ella (alejándose de la suya).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2018/04/ull-nuevo-logo.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;</content><author><name>Nrh</name></author><category term="docencia" /><summary type="html">El funcionalismo Hegemónico en los años 50-60. Analiza las relaciones entre sistema educativo y necesidades del sistema social (funciones de la educación). El sistema social tiene tendencia a la estabilidad Cada elemento del sistema tiene una función . La cultura es elemento central en el mantenimiento del orden social.</summary></entry><entry><title type="html">Objetivos</title><link href="http://localhost:4000/inicio/iniobj" rel="alternate" type="text/html" title="Objetivos" /><published>2021-11-27T00:00:00+00:00</published><updated>2021-11-27T00:00:00+00:00</updated><id>http://localhost:4000/inicio/iniobj</id><content type="html" xml:base="http://localhost:4000/inicio/iniobj">&lt;h2 id=&quot;principales&quot;&gt;Principales&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Informar y asesorar a las familias acerca del proceso de enseñanza y aprendizaje y sobre la orientación personal, académica y profesional de sus hijos&lt;/li&gt;
@@ -20,7 +48,9 @@
 AN.2D Apdo. 456 38200 San Cristóbal de La Laguna
 master.profesorado@ull.es&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2018/04/ull-nuevo-logo.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;</content><author><name>Nrh</name></author><category term="contacto" /><summary type="html">Universidad de La Laguna</summary></entry><entry><title type="html">Math post</title><link href="http://localhost:4000/docencia/clase" rel="alternate" type="text/html" title="Math post" /><published>2021-11-11T00:00:00+00:00</published><updated>2021-11-11T00:00:00+00:00</updated><id>http://localhost:4000/docencia/clase</id><content type="html" xml:base="http://localhost:4000/docencia/clase">&lt;h2 id=&quot;probando-blog&quot;&gt;Probando blog&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2018/04/ull-nuevo-logo.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;</content><author><name>Nrh</name></author><category term="contacto" /><summary type="html">Universidad de La Laguna</summary></entry><entry><title type="html">Math post</title><link href="http://localhost:4000/docencia/clase" rel="alternate" type="text/html" title="Math post" /><published>2021-11-11T00:00:00+00:00</published><updated>2021-11-11T00:00:00+00:00</updated><id>http://localhost:4000/docencia/clase</id><content type="html" xml:base="http://localhost:4000/docencia/clase">&lt;p&gt;&lt;img src=&quot;https://englishlive.ef.com/es-mx/blog/wp-content/uploads/sites/8/2019/03/operaciones-matematicas-y-numeros-en-ingles.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;probando-blog&quot;&gt;Probando blog&lt;/h2&gt;
 &lt;p&gt;\(f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi\) &lt;br /&gt;
 \(mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}\)&lt;/p&gt;
 
@@ -81,7 +111,7 @@ master.profesorado@ull.es&lt;/p&gt;
   
 &lt;/table&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2018/04/ull-nuevo-logo.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;</content><author><name>Nrh</name></author><category term="docencia" /><summary type="html">Probando blog \(f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi\) \(mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}\)</summary></entry><entry><title type="html">Dolphin post</title><link href="http://localhost:4000/personal/dolphin" rel="alternate" type="text/html" title="Dolphin post" /><published>2021-11-09T00:00:00+00:00</published><updated>2021-11-09T00:00:00+00:00</updated><id>http://localhost:4000/personal/dolphin</id><content type="html" xml:base="http://localhost:4000/personal/dolphin">&lt;h2 id=&quot;personal-post&quot;&gt;Personal post&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2018/04/ull-nuevo-logo.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;</content><author><name>Nrh</name></author><category term="docencia" /><summary type="html"></summary></entry><entry><title type="html">Dolphin post</title><link href="http://localhost:4000/personal/dolphin" rel="alternate" type="text/html" title="Dolphin post" /><published>2021-11-09T00:00:00+00:00</published><updated>2021-11-09T00:00:00+00:00</updated><id>http://localhost:4000/personal/dolphin</id><content type="html" xml:base="http://localhost:4000/personal/dolphin">&lt;h2 id=&quot;personal-post&quot;&gt;Personal post&lt;/h2&gt;
 
 &lt;h3 id=&quot;dolphin-post&quot;&gt;Dolphin post&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;https://cumbrepuebloscop20.org/wp-content/uploads/2018/09/delfin.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
@@ -108,7 +138,19 @@ El resultado de chuchu es 4&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Mi usuario es &lt;em&gt;AET developing&lt;/em&gt;.&lt;/p&gt;</content><author><name>Nrh</name></author><category term="personal" /><summary type="html">Personal post</summary></entry><entry><title type="html">Bienvenido!!</title><link href="http://localhost:4000/inicio/inibienvenido" rel="alternate" type="text/html" title="Bienvenido!!" /><published>2021-11-04T00:00:00+00:00</published><updated>2021-11-04T00:00:00+00:00</updated><id>http://localhost:4000/inicio/inibienvenido</id><content type="html" xml:base="http://localhost:4000/inicio/inibienvenido">&lt;h2 id=&quot;descripción&quot;&gt;Descripción&lt;/h2&gt;
+&lt;p&gt;Mi usuario es &lt;em&gt;AET developing&lt;/em&gt;.&lt;/p&gt;</content><author><name>Nrh</name></author><category term="personal" /><summary type="html">Personal post</summary></entry><entry><title type="html">Aprendizaje y eñseñanza</title><link href="http://localhost:4000/docencia/aprendizaje" rel="alternate" type="text/html" title="Aprendizaje y eñseñanza" /><published>2021-11-05T00:00:00+00:00</published><updated>2021-11-05T00:00:00+00:00</updated><id>http://localhost:4000/docencia/aprendizaje</id><content type="html" xml:base="http://localhost:4000/docencia/aprendizaje">&lt;h2 id=&quot;individual&quot;&gt;Individual&lt;/h2&gt;
+&lt;p&gt;El aprendizaje individual es aquel que desarrolla, en mayor medida, el aprendizaje aislado de los alumnos. Es el utilizado en el sistema clásico de la educación en la que el profesor desempeña un rol expositor y los alumnos un rol de escucha y atención a sus palabras. La disposición de las aulas y los recursos están enfocados a la interacción profesor – alumnado. No se favorece ni la comunicación directa entre alumnos ni el trabajo en equipo. &lt;br /&gt;
+&lt;img src=&quot;https://www.magisnet.com/wp-content/uploads/2021/01/habilidades.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;competitivo&quot;&gt;Competitivo&lt;/h2&gt;
+&lt;p&gt;El aprendizaje competitivo es aquel que desarrolla, en mayor medida, el afán de los alumnos por la auto-superación, el trabajo duro y las recompensas tras el esfuerzo, pero también la comparación con otros alumnos y la necesidad de “ser los mejores” con el objetivo último de conseguir el reconocimiento social. Entre los aspectos positivos de este tipo de aprendizaje, destacamos que favorece en los individuos la necesidad de trabajar para auto-superarse. &lt;br /&gt;
+&lt;img src=&quot;https://www.cetys.mx/noticias/wp-content/uploads/2021/07/CIEN1.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;cooperativo&quot;&gt;Cooperativo&lt;/h2&gt;
+&lt;p&gt;El aprendizaje cooperativo es aquel que desarrolla en mayor medida el espíritu de equipo, de trabajo colectivo, el sentimiento de pertenencia al equipo y valores tales como compañerismo, solidaridad, respeto, tolerancia, igualdad y equidad. Es el aprendizaje que prepara de forma óptima a los individuos para integrarse y formar parte de una sociedad democrática, multicultural y en la que la participación y el trabajo de todos sus integrantes es indispensable para el desarrollo y avance de la sociedad. &lt;br /&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/toWkRZfBKfKWfOHyWkPEyoYCWocQrqwmOldq8BAq890I4t4gdSxvrRL4TFBTJz3DLZF9sP2I6QBXsY8beoboBQP_NG2Gwlqg6HpstDlw6VpFHpEXzKxsft031r2qZNq7Lkv6bw&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.ull.es/portal/noticias/wp-content/uploads/sites/13/2018/04/ull-nuevo-logo.jpg&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;</content><author><name>Nrh</name></author><category term="docencia" /><summary type="html">Individual El aprendizaje individual es aquel que desarrolla, en mayor medida, el aprendizaje aislado de los alumnos. Es el utilizado en el sistema clásico de la educación en la que el profesor desempeña un rol expositor y los alumnos un rol de escucha y atención a sus palabras. La disposición de las aulas y los recursos están enfocados a la interacción profesor – alumnado. No se favorece ni la comunicación directa entre alumnos ni el trabajo en equipo.</summary></entry><entry><title type="html">Bienvenido!!</title><link href="http://localhost:4000/inicio/inibienvenido" rel="alternate" type="text/html" title="Bienvenido!!" /><published>2021-11-04T00:00:00+00:00</published><updated>2021-11-04T00:00:00+00:00</updated><id>http://localhost:4000/inicio/inibienvenido</id><content type="html" xml:base="http://localhost:4000/inicio/inibienvenido">&lt;h2 id=&quot;descripción&quot;&gt;Descripción&lt;/h2&gt;
 
 &lt;p&gt;El Máster Interuniversitario en Formación del Profesorado de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanza de Idiomas por las Universidades de La Laguna y Las Palmas de Gran Canaria, habilita para el ejercicio de actividades profesionales, según la Orden EDU/3498/2011, de 16 de diciembre, por la que se modifica la Orden ECI/3858/2007, de 27 de diciembre, por la que se establecen los requisitos para la verificación de los títulos universitarios oficiales que habiliten para el ejercicio de las profesiones de Profesor de Educación Secundaria Obligatoria y Bachillerato, Formación Profesional y Enseñanza de Idiomas.&lt;/p&gt;
 
