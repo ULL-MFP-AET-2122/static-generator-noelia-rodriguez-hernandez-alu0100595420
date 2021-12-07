@@ -18,7 +18,7 @@ width="50%"
 ## Cooperativo
 El aprendizaje cooperativo es aquel que desarrolla en mayor medida el espíritu de equipo, de trabajo colectivo, el sentimiento de pertenencia al equipo y valores tales como compañerismo, solidaridad, respeto, tolerancia, igualdad y equidad. Es el aprendizaje que prepara de forma óptima a los individuos para integrarse y formar parte de una sociedad democrática, multicultural y en la que la participación y el trabajo de todos sus integrantes es indispensable para el desarrollo y avance de la sociedad.   
 <img 
-src="https://lh3.googleusercontent.com/proxy/toWkRZfBKfKWfOHyWkPEyoYCWocQrqwmOldq8BAq890I4t4gdSxvrRL4TFBTJz3DLZF9sP2I6QBXsY8beoboBQP_NG2Gwlqg6HpstDlw6VpFHpEXzKxsft031r2qZNq7Lkv6bw"  
+src="https://static.comunicae.com/photos/notas/1214602/Mini1589197792_Captura_de_pantalla_2020_05_11_a_las_13.49.11.png"  
 width="50%" 
 />    
 
